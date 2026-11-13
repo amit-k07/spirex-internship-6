@@ -9,7 +9,7 @@ function showProfile(id) {
     else if (id === "rahul") {
         message = "Rahul is a creative designer who loves UI/UX.";
     }
-    else if (id === "Saloni") {
+    else if (id === "saloni") {
         message = "Saloni is a web developer with an interest in databases.";
     }
 
